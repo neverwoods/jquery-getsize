@@ -1,0 +1,29 @@
+{
+  "name": "jquery-getsize",
+  "version": "1.0.0",
+  "homepage": "https://github.com/neverwoods/jquery-getsize",
+  "authors": [
+    "Robin van Baalen <robin@neverwoods.com>"
+  ],
+  "description": "Get the size of any DOM element even when it's not available yet",
+  "main": "dist/getsize.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "get",
+    "size",
+    "dom",
+    "elements",
+    "measure",
+    "element"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
